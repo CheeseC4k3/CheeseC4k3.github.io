@@ -9,3 +9,4 @@ Collection of useful links, tutorials etc. for using Jekyll.
 
 
 * know how markdown works: [how-to-markdown](https://wordpress.com/support/markdown-quick-reference/)
+* set a favicon: [how-to-favicon](https://github.com/jekyll/jekyll-help/issues/101)
