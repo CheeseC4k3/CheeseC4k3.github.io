@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about myself:
+**Who-is CheeseC4k3**
 
 I like building stuff as much as taking it apart. Curious, enthusiastic and optimistic. 
 I believe in humanity to make the world a better place, through social and technical progress but most important through humility.
